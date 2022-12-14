@@ -1,2 +1,2 @@
 # Platform-Gamer
-# Classis platform game adapted from Der Chef
+Classic platform game adapted from Der Chef
